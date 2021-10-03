@@ -11,7 +11,7 @@ int main(void)
   int i,j;
   char main[ROW][COL];
 
-  for(i=0;i<ROW;i++)
+  for(i=0 ;i<ROW;i++)
   {
     for(j=0;j<COL;j++)
     {
