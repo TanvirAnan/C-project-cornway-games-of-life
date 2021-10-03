@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
     int col;
     scanf("%d",&col);
     int arr[col];

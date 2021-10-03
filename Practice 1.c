@@ -6,7 +6,7 @@
 
 int countingNeighbors(int arr1[][colcount],int arrlen,int r, int c)
 {
-    int sum=0,r1,r3;
+    int sum=0, r1,r3;
     if(r>0 && r!=rowcount-1)
         {
             r1=r-1;
